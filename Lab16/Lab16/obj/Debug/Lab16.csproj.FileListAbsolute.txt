@@ -1,0 +1,14 @@
+D:\Документы\Университет\3 семестр\ООТП\Лабораторные\Lab16\Lab16\bin\Debug\Lab16.exe.config
+D:\Документы\Университет\3 семестр\ООТП\Лабораторные\Lab16\Lab16\bin\Debug\Lab16.exe
+D:\Документы\Университет\3 семестр\ООТП\Лабораторные\Lab16\Lab16\bin\Debug\Lab16.pdb
+D:\Документы\Университет\3 семестр\ООТП\Лабораторные\Lab16\Lab16\obj\Debug\Lab16.csprojResolveAssemblyReference.cache
+D:\Документы\Университет\3 семестр\ООТП\Лабораторные\Lab16\Lab16\obj\Debug\Lab16.csproj.CoreCompileInputs.cache
+D:\Документы\Университет\3 семестр\ООТП\Лабораторные\Lab16\Lab16\obj\Debug\Lab16.exe
+D:\Документы\Университет\3 семестр\ООТП\Лабораторные\Lab16\Lab16\obj\Debug\Lab16.pdb
+D:\Лабы\2 курс\1 сем\Labs3Sem\C#\Лабораторные\Lab16\Lab16\bin\Debug\Lab16.exe.config
+D:\Лабы\2 курс\1 сем\Labs3Sem\C#\Лабораторные\Lab16\Lab16\bin\Debug\Lab16.exe
+D:\Лабы\2 курс\1 сем\Labs3Sem\C#\Лабораторные\Lab16\Lab16\bin\Debug\Lab16.pdb
+D:\Лабы\2 курс\1 сем\Labs3Sem\C#\Лабораторные\Lab16\Lab16\obj\Debug\Lab16.csprojAssemblyReference.cache
+D:\Лабы\2 курс\1 сем\Labs3Sem\C#\Лабораторные\Lab16\Lab16\obj\Debug\Lab16.csproj.CoreCompileInputs.cache
+D:\Лабы\2 курс\1 сем\Labs3Sem\C#\Лабораторные\Lab16\Lab16\obj\Debug\Lab16.exe
+D:\Лабы\2 курс\1 сем\Labs3Sem\C#\Лабораторные\Lab16\Lab16\obj\Debug\Lab16.pdb

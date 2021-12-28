@@ -1,0 +1,107 @@
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:Planet id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Lab14/Lab14%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<abstractclass xsi:null="1"/>
+<size>0</size>
+<_x003C_Name_x003E_k__BackingField id="ref-3">Earth</_x003C_Name_x003E_k__BackingField>
+<water href="#ref-4"/>
+<land href="#ref-5"/>
+</a1:Planet>
+<a1:Water id="ref-4" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Lab14/Lab14%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<oceans href="#ref-6"/>
+<sea href="#ref-6"/>
+<Ocean_x002B__x003C_NameO_x003E_k__BackingField id="ref-7"></Ocean_x002B__x003C_NameO_x003E_k__BackingField>
+<Sea_x002B__x003C_NameS_x003E_k__BackingField href="#ref-7"/>
+</a1:Water>
+<a1:Land id="ref-5" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Lab14/Lab14%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_x003C_NameL_x003E_k__BackingField href="#ref-3"/>
+<continents href="#ref-8"/>
+<islands href="#ref-9"/>
+<countrys href="#ref-8"/>
+<Continent_x002B__x003C_NameCo_x003E_k__BackingField href="#ref-3"/>
+<Country_x002B__x003C_NameCou_x003E_k__BackingField href="#ref-3"/>
+</a1:Land>
+<SOAP-ENC:Array id="ref-6" SOAP-ENC:arrayType="a1:Ocean[2]" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Lab14/Lab14%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<item href="#ref-10"/>
+<item href="#ref-11"/>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-8" SOAP-ENC:arrayType="a1:Continent[2]" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Lab14/Lab14%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<item href="#ref-12"/>
+<item href="#ref-13"/>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-9" SOAP-ENC:arrayType="a1:Island[3]" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Lab14/Lab14%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<item href="#ref-14"/>
+<item href="#ref-15"/>
+<item href="#ref-16"/>
+</SOAP-ENC:Array>
+<a1:Ocean id="ref-10" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Lab14/Lab14%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_x003C_NameO_x003E_k__BackingField id="ref-17">Atlantic</_x003C_NameO_x003E_k__BackingField>
+<sea href="#ref-18"/>
+<Sea_x002B__x003C_NameS_x003E_k__BackingField href="#ref-17"/>
+</a1:Ocean>
+<a1:Ocean id="ref-11" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Lab14/Lab14%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_x003C_NameO_x003E_k__BackingField id="ref-19">Arctic</_x003C_NameO_x003E_k__BackingField>
+<sea href="#ref-20"/>
+<Sea_x002B__x003C_NameS_x003E_k__BackingField href="#ref-19"/>
+</a1:Ocean>
+<a1:Continent id="ref-12" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Lab14/Lab14%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_x003C_NameCo_x003E_k__BackingField id="ref-21">Europe</_x003C_NameCo_x003E_k__BackingField>
+<countrys href="#ref-22"/>
+<Country_x002B__x003C_NameCou_x003E_k__BackingField href="#ref-21"/>
+</a1:Continent>
+<a1:Continent id="ref-13" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Lab14/Lab14%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_x003C_NameCo_x003E_k__BackingField id="ref-23">North America</_x003C_NameCo_x003E_k__BackingField>
+<countrys href="#ref-24"/>
+<Country_x002B__x003C_NameCou_x003E_k__BackingField href="#ref-23"/>
+</a1:Continent>
+<a1:Island id="ref-14" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Lab14/Lab14%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_x003C_NameI_x003E_k__BackingField id="ref-25">Sumatra</_x003C_NameI_x003E_k__BackingField>
+</a1:Island>
+<a1:Island id="ref-15" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Lab14/Lab14%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_x003C_NameI_x003E_k__BackingField id="ref-26">Schpicbergen</_x003C_NameI_x003E_k__BackingField>
+</a1:Island>
+<a1:Island id="ref-16" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Lab14/Lab14%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_x003C_NameI_x003E_k__BackingField id="ref-27">Corsika</_x003C_NameI_x003E_k__BackingField>
+</a1:Island>
+<SOAP-ENC:Array id="ref-18" SOAP-ENC:arrayType="a1:Sea[2]" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Lab14/Lab14%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<item href="#ref-28"/>
+<item href="#ref-29"/>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-20" SOAP-ENC:arrayType="a1:Sea[2]" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Lab14/Lab14%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<item href="#ref-30"/>
+<item href="#ref-31"/>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-22" SOAP-ENC:arrayType="a1:Country[2]" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Lab14/Lab14%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<item href="#ref-32"/>
+<item href="#ref-33"/>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-24" SOAP-ENC:arrayType="a1:Country[2]" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Lab14/Lab14%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<item href="#ref-34"/>
+<item href="#ref-35"/>
+</SOAP-ENC:Array>
+<a1:Sea id="ref-28" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Lab14/Lab14%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_x003C_NameS_x003E_k__BackingField id="ref-36">Baltic</_x003C_NameS_x003E_k__BackingField>
+</a1:Sea>
+<a1:Sea id="ref-29" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Lab14/Lab14%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_x003C_NameS_x003E_k__BackingField id="ref-37">Nordic</_x003C_NameS_x003E_k__BackingField>
+</a1:Sea>
+<a1:Sea id="ref-30" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Lab14/Lab14%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_x003C_NameS_x003E_k__BackingField id="ref-38">White</_x003C_NameS_x003E_k__BackingField>
+</a1:Sea>
+<a1:Sea id="ref-31" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Lab14/Lab14%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_x003C_NameS_x003E_k__BackingField id="ref-39">Norwegian</_x003C_NameS_x003E_k__BackingField>
+</a1:Sea>
+<a1:Country id="ref-32" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Lab14/Lab14%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_x003C_NameCou_x003E_k__BackingField id="ref-40">England</_x003C_NameCou_x003E_k__BackingField>
+</a1:Country>
+<a1:Country id="ref-33" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Lab14/Lab14%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_x003C_NameCou_x003E_k__BackingField id="ref-41">Germany</_x003C_NameCou_x003E_k__BackingField>
+</a1:Country>
+<a1:Country id="ref-34" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Lab14/Lab14%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_x003C_NameCou_x003E_k__BackingField id="ref-42">USA</_x003C_NameCou_x003E_k__BackingField>
+</a1:Country>
+<a1:Country id="ref-35" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Lab14/Lab14%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_x003C_NameCou_x003E_k__BackingField id="ref-43">Canada</_x003C_NameCou_x003E_k__BackingField>
+</a1:Country>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

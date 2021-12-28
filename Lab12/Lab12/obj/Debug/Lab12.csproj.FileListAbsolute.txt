@@ -1,0 +1,22 @@
+D:\Документы\Университет\3 семестр\ООТП\Лабораторные\Lab12\Lab12\bin\Debug\Lab12.exe.config
+D:\Документы\Университет\3 семестр\ООТП\Лабораторные\Lab12\Lab12\bin\Debug\Lab12.exe
+D:\Документы\Университет\3 семестр\ООТП\Лабораторные\Lab12\Lab12\bin\Debug\Lab12.pdb
+D:\Документы\Университет\3 семестр\ООТП\Лабораторные\Lab12\Lab12\obj\Debug\Lab12.csprojResolveAssemblyReference.cache
+D:\Документы\Университет\3 семестр\ООТП\Лабораторные\Lab12\Lab12\obj\Debug\Lab12.csproj.CoreCompileInputs.cache
+D:\Документы\Университет\3 семестр\ООТП\Лабораторные\Lab12\Lab12\obj\Debug\Lab12.exe
+D:\Документы\Университет\3 семестр\ООТП\Лабораторные\Lab12\Lab12\obj\Debug\Lab12.pdb
+D:\Лабы\2 курс\1 сем\Labs3Sem\C#\Лабораторные\Lab12\Lab12\bin\Debug\Lab12.exe.config
+D:\Лабы\2 курс\1 сем\Labs3Sem\C#\Лабораторные\Lab12\Lab12\bin\Debug\Lab12.exe
+D:\Лабы\2 курс\1 сем\Labs3Sem\C#\Лабораторные\Lab12\Lab12\bin\Debug\Lab12.pdb
+D:\Лабы\2 курс\1 сем\Labs3Sem\C#\Лабораторные\Lab12\Lab12\obj\Debug\Lab12.csprojAssemblyReference.cache
+D:\Лабы\2 курс\1 сем\Labs3Sem\C#\Лабораторные\Lab12\Lab12\obj\Debug\Lab12.csproj.CoreCompileInputs.cache
+D:\Лабы\2 курс\1 сем\Labs3Sem\C#\Лабораторные\Lab12\Lab12\obj\Debug\Lab12.exe
+D:\Лабы\2 курс\1 сем\Labs3Sem\C#\Лабораторные\Lab12\Lab12\obj\Debug\Lab12.pdb
+E:\2 курс\1 сем\ООП\Lab12\Lab12\bin\Debug\Lab12.exe.config
+E:\2 курс\1 сем\ООП\Lab12\Lab12\bin\Debug\Lab12.exe
+E:\2 курс\1 сем\ООП\Lab12\Lab12\bin\Debug\Lab12.pdb
+E:\2 курс\1 сем\ООП\Lab12\Lab12\obj\Debug\Lab12.csproj.AssemblyReference.cache
+E:\2 курс\1 сем\ООП\Lab12\Lab12\obj\Debug\Lab12.csproj.SuggestedBindingRedirects.cache
+E:\2 курс\1 сем\ООП\Lab12\Lab12\obj\Debug\Lab12.csproj.CoreCompileInputs.cache
+E:\2 курс\1 сем\ООП\Lab12\Lab12\obj\Debug\Lab12.exe
+E:\2 курс\1 сем\ООП\Lab12\Lab12\obj\Debug\Lab12.pdb

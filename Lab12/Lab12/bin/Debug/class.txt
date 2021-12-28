@@ -1,0 +1,18 @@
+Lab3.Book - Method - WriteInfo
+
+Lab3.Book - Method - Met
+
+System.Object - Method - Equals
+
+System.Object - Method - GetHashCode
+
+System.Object - Method - GetType
+
+System.Object - Method - ToString
+
+Lab3.Book - Constructor - .ctor
+
+Lab3.Book - Constructor - .ctor
+
+Lab3.Book - Field - Author
+

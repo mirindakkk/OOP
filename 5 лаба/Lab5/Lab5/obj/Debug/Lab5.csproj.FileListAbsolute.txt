@@ -1,0 +1,20 @@
+D:\Документы\Университет\3 семестр\ООТП\Лабораторные\Lab5\Lab5\obj\Debug\Lab5.csprojResolveAssemblyReference.cache
+D:\Документы\Университет\3 семестр\ООТП\Лабораторные\Lab5\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+D:\Документы\Университет\3 семестр\ООТП\Лабораторные\Lab5\Lab5\bin\Debug\Lab5.exe.config
+D:\Документы\Университет\3 семестр\ООТП\Лабораторные\Lab5\Lab5\bin\Debug\Lab5.exe
+D:\Документы\Университет\3 семестр\ООТП\Лабораторные\Lab5\Lab5\bin\Debug\Lab5.pdb
+D:\Документы\Университет\3 семестр\ООТП\Лабораторные\Lab5\Lab5\obj\Debug\Lab5.exe
+D:\Документы\Университет\3 семестр\ООТП\Лабораторные\Lab5\Lab5\obj\Debug\Lab5.pdb
+C:\University\2 курс\3 сем\нужное\3 семестр\ООТП\Лабораторные\Lab5\Lab5\obj\Debug\Lab5.csprojAssemblyReference.cache
+C:\University\2 курс\3 сем\нужное\3 семестр\ООТП\Лабораторные\Lab5\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+C:\University\2 курс\3 сем\нужное\3 семестр\ООТП\Лабораторные\Lab5\Lab5\obj\Debug\Lab5.exe
+C:\University\2 курс\3 сем\нужное\3 семестр\ООТП\Лабораторные\Lab5\Lab5\obj\Debug\Lab5.pdb
+D:\Лабы\2 курс\1 сем\Labs3Sem\C#\Лабораторные\Lab5\Lab5\bin\Debug\Lab5.exe.config
+D:\Лабы\2 курс\1 сем\Labs3Sem\C#\Лабораторные\Lab5\Lab5\bin\Debug\Lab5.exe
+D:\Лабы\2 курс\1 сем\Labs3Sem\C#\Лабораторные\Lab5\Lab5\bin\Debug\Lab5.pdb
+D:\Лабы\2 курс\1 сем\Labs3Sem\C#\Лабораторные\Lab5\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+D:\Лабы\2 курс\1 сем\Labs3Sem\C#\Лабораторные\Lab5\Lab5\obj\Debug\Lab5.exe
+D:\Лабы\2 курс\1 сем\Labs3Sem\C#\Лабораторные\Lab5\Lab5\obj\Debug\Lab5.pdb
+D:\Лабы\2 курс\1 сем\Labs3Sem\C#\Лабораторные\Lab5\Lab5\obj\Debug\Lab5.csprojAssemblyReference.cache
+E:\2 курс\1 сем\ООП\5 лаба\Lab5\Lab5\obj\Debug\Lab5.exe
+E:\2 курс\1 сем\ООП\5 лаба\Lab5\Lab5\obj\Debug\Lab5.pdb

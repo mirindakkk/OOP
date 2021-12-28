@@ -1,0 +1,22 @@
+D:\Документы\Университет\3 семестр\ООТП\Лабораторные\Lab6\Lab6\bin\Debug\Lab6.exe.config
+D:\Документы\Университет\3 семестр\ООТП\Лабораторные\Lab6\Lab6\bin\Debug\Lab6.exe
+D:\Документы\Университет\3 семестр\ООТП\Лабораторные\Lab6\Lab6\bin\Debug\Lab6.pdb
+D:\Документы\Университет\3 семестр\ООТП\Лабораторные\Lab6\Lab6\obj\Debug\Lab6.csprojResolveAssemblyReference.cache
+D:\Документы\Университет\3 семестр\ООТП\Лабораторные\Lab6\Lab6\obj\Debug\Lab6.csproj.CoreCompileInputs.cache
+D:\Документы\Университет\3 семестр\ООТП\Лабораторные\Lab6\Lab6\obj\Debug\Lab6.exe
+D:\Документы\Университет\3 семестр\ООТП\Лабораторные\Lab6\Lab6\obj\Debug\Lab6.pdb
+C:\University\2 курс\3 сем\нужное\3 семестр\ООТП\Лабораторные\Lab6\Lab6\bin\Debug\Lab6.exe.config
+C:\University\2 курс\3 сем\нужное\3 семестр\ООТП\Лабораторные\Lab6\Lab6\bin\Debug\Lab6.exe
+C:\University\2 курс\3 сем\нужное\3 семестр\ООТП\Лабораторные\Lab6\Lab6\bin\Debug\Lab6.pdb
+C:\University\2 курс\3 сем\нужное\3 семестр\ООТП\Лабораторные\Lab6\Lab6\obj\Debug\Lab6.csproj.CoreCompileInputs.cache
+C:\University\2 курс\3 сем\нужное\3 семестр\ООТП\Лабораторные\Lab6\Lab6\obj\Debug\Lab6.exe
+C:\University\2 курс\3 сем\нужное\3 семестр\ООТП\Лабораторные\Lab6\Lab6\obj\Debug\Lab6.pdb
+C:\University\2 курс\3 сем\нужное\3 семестр\ООТП\Лабораторные\Lab6\Lab6\obj\Debug\Lab6.csprojAssemblyReference.cache
+E:\2 курс\1 сем\ООП\6 лаба\Lab6\Lab6\bin\Debug\Lab6.exe.config
+E:\2 курс\1 сем\ООП\6 лаба\Lab6\Lab6\bin\Debug\Lab6.exe
+E:\2 курс\1 сем\ООП\6 лаба\Lab6\Lab6\bin\Debug\Lab6.pdb
+E:\2 курс\1 сем\ООП\6 лаба\Lab6\Lab6\obj\Debug\Lab6.csproj.AssemblyReference.cache
+E:\2 курс\1 сем\ООП\6 лаба\Lab6\Lab6\obj\Debug\Lab6.csproj.SuggestedBindingRedirects.cache
+E:\2 курс\1 сем\ООП\6 лаба\Lab6\Lab6\obj\Debug\Lab6.csproj.CoreCompileInputs.cache
+E:\2 курс\1 сем\ООП\6 лаба\Lab6\Lab6\obj\Debug\Lab6.exe
+E:\2 курс\1 сем\ООП\6 лаба\Lab6\Lab6\obj\Debug\Lab6.pdb

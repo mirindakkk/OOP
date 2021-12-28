@@ -1,0 +1,6 @@
+E:\2 курс\1 сем\ООП\5 лаба\Lab5\Lab5\obj\Debug\net6.0\Lab5.GlobalUsings.g.cs
+E:\2 курс\1 сем\ООП\5 лаба\Lab5\Lab5\obj\Debug\net6.0\Lab5.csproj.AssemblyReference.cache
+E:\2 курс\1 сем\ООП\5 лаба\Lab5\Lab5\obj\Debug\net6.0\Lab5.GeneratedMSBuildEditorConfig.editorconfig
+E:\2 курс\1 сем\ООП\5 лаба\Lab5\Lab5\obj\Debug\net6.0\Lab5.AssemblyInfoInputs.cache
+E:\2 курс\1 сем\ООП\5 лаба\Lab5\Lab5\obj\Debug\net6.0\Lab5.AssemblyInfo.cs
+E:\2 курс\1 сем\ООП\5 лаба\Lab5\Lab5\obj\Debug\net6.0\Lab5.csproj.CoreCompileInputs.cache

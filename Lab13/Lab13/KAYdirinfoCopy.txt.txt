@@ -1,0 +1,24 @@
+Files
+E:\2 курс\1 сем\ООП\Lab13\Lab13\App.config
+E:\2 курс\1 сем\ООП\Lab13\Lab13\Archive.gz
+E:\2 курс\1 сем\ООП\Lab13\Lab13\KAY.txt
+E:\2 курс\1 сем\ООП\Lab13\Lab13\KAYArchive.cs
+E:\2 курс\1 сем\ООП\Lab13\Lab13\KAYDirInfo.cs
+E:\2 курс\1 сем\ООП\Lab13\Lab13\KAYdirinfo.txt
+E:\2 курс\1 сем\ООП\Lab13\Lab13\KAYdirinfoCopy.txt.txt
+E:\2 курс\1 сем\ООП\Lab13\Lab13\KAYDiskInfo.cs
+E:\2 курс\1 сем\ООП\Lab13\Lab13\KAYFileInfo.cs
+E:\2 курс\1 сем\ООП\Lab13\Lab13\KAYFileInfo.txt
+E:\2 курс\1 сем\ООП\Lab13\Lab13\KAYFileManager.cs
+E:\2 курс\1 сем\ООП\Lab13\Lab13\KAYInspect.txt
+E:\2 курс\1 сем\ООП\Lab13\Lab13\KAYLog.cs
+E:\2 курс\1 сем\ООП\Lab13\Lab13\Lab13.csproj
+E:\2 курс\1 сем\ООП\Lab13\Lab13\NewFile.txt
+E:\2 курс\1 сем\ООП\Lab13\Lab13\Program.cs
+
+Folders
+E:\2 курс\1 сем\ООП\Lab13\Lab13\bin
+E:\2 курс\1 сем\ООП\Lab13\Lab13\KAYInspect
+E:\2 курс\1 сем\ООП\Lab13\Lab13\KAYNewCatalog
+E:\2 курс\1 сем\ООП\Lab13\Lab13\obj
+E:\2 курс\1 сем\ООП\Lab13\Lab13\Properties

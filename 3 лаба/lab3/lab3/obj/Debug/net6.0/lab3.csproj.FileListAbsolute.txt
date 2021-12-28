@@ -1,0 +1,32 @@
+C:\mine\study\2cour1sem\c#\lab3\bin\Debug\net6.0\lab3.exe
+C:\mine\study\2cour1sem\c#\lab3\bin\Debug\net6.0\lab3.deps.json
+C:\mine\study\2cour1sem\c#\lab3\bin\Debug\net6.0\lab3.runtimeconfig.json
+C:\mine\study\2cour1sem\c#\lab3\bin\Debug\net6.0\lab3.dll
+C:\mine\study\2cour1sem\c#\lab3\bin\Debug\net6.0\ref\lab3.dll
+C:\mine\study\2cour1sem\c#\lab3\bin\Debug\net6.0\lab3.pdb
+C:\mine\study\2cour1sem\c#\lab3\obj\Debug\net6.0\lab3.GlobalUsings.g.cs
+C:\mine\study\2cour1sem\c#\lab3\obj\Debug\net6.0\lab3.csproj.AssemblyReference.cache
+C:\mine\study\2cour1sem\c#\lab3\obj\Debug\net6.0\lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\mine\study\2cour1sem\c#\lab3\obj\Debug\net6.0\lab3.AssemblyInfoInputs.cache
+C:\mine\study\2cour1sem\c#\lab3\obj\Debug\net6.0\lab3.AssemblyInfo.cs
+C:\mine\study\2cour1sem\c#\lab3\obj\Debug\net6.0\lab3.csproj.CoreCompileInputs.cache
+C:\mine\study\2cour1sem\c#\lab3\obj\Debug\net6.0\lab3.dll
+C:\mine\study\2cour1sem\c#\lab3\obj\Debug\net6.0\ref\lab3.dll
+C:\mine\study\2cour1sem\c#\lab3\obj\Debug\net6.0\lab3.pdb
+C:\mine\study\2cour1sem\c#\lab3\obj\Debug\net6.0\lab3.genruntimeconfig.cache
+E:\2 курс\1 сем\ООП\3 лаба\lab3\lab3\bin\Debug\net6.0\lab3.exe
+E:\2 курс\1 сем\ООП\3 лаба\lab3\lab3\bin\Debug\net6.0\lab3.deps.json
+E:\2 курс\1 сем\ООП\3 лаба\lab3\lab3\bin\Debug\net6.0\lab3.runtimeconfig.json
+E:\2 курс\1 сем\ООП\3 лаба\lab3\lab3\bin\Debug\net6.0\lab3.dll
+E:\2 курс\1 сем\ООП\3 лаба\lab3\lab3\bin\Debug\net6.0\ref\lab3.dll
+E:\2 курс\1 сем\ООП\3 лаба\lab3\lab3\bin\Debug\net6.0\lab3.pdb
+E:\2 курс\1 сем\ООП\3 лаба\lab3\lab3\obj\Debug\net6.0\lab3.GlobalUsings.g.cs
+E:\2 курс\1 сем\ООП\3 лаба\lab3\lab3\obj\Debug\net6.0\lab3.csproj.AssemblyReference.cache
+E:\2 курс\1 сем\ООП\3 лаба\lab3\lab3\obj\Debug\net6.0\lab3.GeneratedMSBuildEditorConfig.editorconfig
+E:\2 курс\1 сем\ООП\3 лаба\lab3\lab3\obj\Debug\net6.0\lab3.AssemblyInfoInputs.cache
+E:\2 курс\1 сем\ООП\3 лаба\lab3\lab3\obj\Debug\net6.0\lab3.AssemblyInfo.cs
+E:\2 курс\1 сем\ООП\3 лаба\lab3\lab3\obj\Debug\net6.0\lab3.csproj.CoreCompileInputs.cache
+E:\2 курс\1 сем\ООП\3 лаба\lab3\lab3\obj\Debug\net6.0\lab3.dll
+E:\2 курс\1 сем\ООП\3 лаба\lab3\lab3\obj\Debug\net6.0\ref\lab3.dll
+E:\2 курс\1 сем\ООП\3 лаба\lab3\lab3\obj\Debug\net6.0\lab3.pdb
+E:\2 курс\1 сем\ООП\3 лаба\lab3\lab3\obj\Debug\net6.0\lab3.genruntimeconfig.cache

@@ -1,0 +1,21 @@
+Files
+D:\Лабы\2 курс\1 сем\Labs3Sem\C#\Лабораторные\Lab13\Lab13\App.config
+D:\Лабы\2 курс\1 сем\Labs3Sem\C#\Лабораторные\Lab13\Lab13\KAYArchive.cs
+D:\Лабы\2 курс\1 сем\Labs3Sem\C#\Лабораторные\Lab13\Lab13\KAYdirinfo
+D:\Лабы\2 курс\1 сем\Labs3Sem\C#\Лабораторные\Lab13\Lab13\KAYDirInfo.cs
+D:\Лабы\2 курс\1 сем\Labs3Sem\C#\Лабораторные\Lab13\Lab13\KAYDiskInfo.cs
+D:\Лабы\2 курс\1 сем\Labs3Sem\C#\Лабораторные\Lab13\Lab13\KAYFileInfo.cs
+D:\Лабы\2 курс\1 сем\Labs3Sem\C#\Лабораторные\Lab13\Lab13\KAYFileInfo.txt
+D:\Лабы\2 курс\1 сем\Labs3Sem\C#\Лабораторные\Lab13\Lab13\KAYFileManager.cs
+D:\Лабы\2 курс\1 сем\Labs3Sem\C#\Лабораторные\Lab13\Lab13\KAYFiles.txt
+D:\Лабы\2 курс\1 сем\Labs3Sem\C#\Лабораторные\Lab13\Lab13\KAYLog.cs
+D:\Лабы\2 курс\1 сем\Labs3Sem\C#\Лабораторные\Lab13\Lab13\Lab13.csproj
+D:\Лабы\2 курс\1 сем\Labs3Sem\C#\Лабораторные\Lab13\Lab13\Program.cs
+
+Folders
+D:\Лабы\2 курс\1 сем\Labs3Sem\C#\Лабораторные\Lab13\Lab13\bin
+D:\Лабы\2 курс\1 сем\Labs3Sem\C#\Лабораторные\Lab13\Lab13\KAY
+D:\Лабы\2 курс\1 сем\Labs3Sem\C#\Лабораторные\Lab13\Lab13\KAYFiles
+D:\Лабы\2 курс\1 сем\Labs3Sem\C#\Лабораторные\Lab13\Lab13\KAYNewCatalog
+D:\Лабы\2 курс\1 сем\Labs3Sem\C#\Лабораторные\Lab13\Lab13\obj
+D:\Лабы\2 курс\1 сем\Labs3Sem\C#\Лабораторные\Lab13\Lab13\Properties

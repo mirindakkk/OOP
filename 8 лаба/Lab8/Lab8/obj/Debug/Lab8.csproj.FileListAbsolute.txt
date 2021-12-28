@@ -1,0 +1,36 @@
+D:\Документы\Университет\3 семестр\ООТП\Лабораторные\Lab8\Lab8\bin\Debug\Lab8.exe.config
+D:\Документы\Университет\3 семестр\ООТП\Лабораторные\Lab8\Lab8\bin\Debug\Lab8.exe
+D:\Документы\Университет\3 семестр\ООТП\Лабораторные\Lab8\Lab8\bin\Debug\Lab8.pdb
+D:\Документы\Университет\3 семестр\ООТП\Лабораторные\Lab8\Lab8\obj\Debug\Lab8.csprojResolveAssemblyReference.cache
+D:\Документы\Университет\3 семестр\ООТП\Лабораторные\Lab8\Lab8\obj\Debug\Lab8.csproj.CoreCompileInputs.cache
+D:\Документы\Университет\3 семестр\ООТП\Лабораторные\Lab8\Lab8\obj\Debug\Lab8.exe
+D:\Документы\Университет\3 семестр\ООТП\Лабораторные\Lab8\Lab8\obj\Debug\Lab8.pdb
+C:\University\2 курс\3 сем\нужное\3 семестр\ООТП\Лабораторные\Lab8\Lab8\bin\Debug\Lab8.exe.config
+C:\University\2 курс\3 сем\нужное\3 семестр\ООТП\Лабораторные\Lab8\Lab8\bin\Debug\Lab8.exe
+C:\University\2 курс\3 сем\нужное\3 семестр\ООТП\Лабораторные\Lab8\Lab8\bin\Debug\Lab8.pdb
+C:\University\2 курс\3 сем\нужное\3 семестр\ООТП\Лабораторные\Lab8\Lab8\obj\Debug\Lab8.csprojAssemblyReference.cache
+C:\University\2 курс\3 сем\нужное\3 семестр\ООТП\Лабораторные\Lab8\Lab8\obj\Debug\Lab8.csproj.CoreCompileInputs.cache
+C:\University\2 курс\3 сем\нужное\3 семестр\ООТП\Лабораторные\Lab8\Lab8\obj\Debug\Lab8.exe
+C:\University\2 курс\3 сем\нужное\3 семестр\ООТП\Лабораторные\Lab8\Lab8\obj\Debug\Lab8.pdb
+D:\Лабораторные\Lab8\Lab8\bin\Debug\Lab8.exe.config
+D:\Лабораторные\Lab8\Lab8\bin\Debug\Lab8.exe
+D:\Лабораторные\Lab8\Lab8\bin\Debug\Lab8.pdb
+D:\Лабораторные\Lab8\Lab8\obj\Debug\Lab8.csprojAssemblyReference.cache
+D:\Лабораторные\Lab8\Lab8\obj\Debug\Lab8.csproj.CoreCompileInputs.cache
+D:\Лабораторные\Lab8\Lab8\obj\Debug\Lab8.exe
+D:\Лабораторные\Lab8\Lab8\obj\Debug\Lab8.pdb
+D:\Лабы\2 курс\1 сем\Labs3Sem\C#\Лабораторные\Lab8\Lab8\bin\Debug\Lab8.exe.config
+D:\Лабы\2 курс\1 сем\Labs3Sem\C#\Лабораторные\Lab8\Lab8\bin\Debug\Lab8.exe
+D:\Лабы\2 курс\1 сем\Labs3Sem\C#\Лабораторные\Lab8\Lab8\bin\Debug\Lab8.pdb
+D:\Лабы\2 курс\1 сем\Labs3Sem\C#\Лабораторные\Lab8\Lab8\obj\Debug\Lab8.csprojAssemblyReference.cache
+D:\Лабы\2 курс\1 сем\Labs3Sem\C#\Лабораторные\Lab8\Lab8\obj\Debug\Lab8.csproj.CoreCompileInputs.cache
+D:\Лабы\2 курс\1 сем\Labs3Sem\C#\Лабораторные\Lab8\Lab8\obj\Debug\Lab8.exe
+D:\Лабы\2 курс\1 сем\Labs3Sem\C#\Лабораторные\Lab8\Lab8\obj\Debug\Lab8.pdb
+E:\2 курс\1 сем\ООП\8 лаба\Lab8\Lab8\bin\Debug\Lab8.exe.config
+E:\2 курс\1 сем\ООП\8 лаба\Lab8\Lab8\bin\Debug\Lab8.exe
+E:\2 курс\1 сем\ООП\8 лаба\Lab8\Lab8\bin\Debug\Lab8.pdb
+E:\2 курс\1 сем\ООП\8 лаба\Lab8\Lab8\obj\Debug\Lab8.csproj.AssemblyReference.cache
+E:\2 курс\1 сем\ООП\8 лаба\Lab8\Lab8\obj\Debug\Lab8.csproj.SuggestedBindingRedirects.cache
+E:\2 курс\1 сем\ООП\8 лаба\Lab8\Lab8\obj\Debug\Lab8.csproj.CoreCompileInputs.cache
+E:\2 курс\1 сем\ООП\8 лаба\Lab8\Lab8\obj\Debug\Lab8.exe
+E:\2 курс\1 сем\ООП\8 лаба\Lab8\Lab8\obj\Debug\Lab8.pdb

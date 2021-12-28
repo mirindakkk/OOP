@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<teams>
+  <team name="Arsenal">
+    <league>BPL</league>
+    <coach>Arsen Wenger</coach>
+  </team>
+  <team name="Morecambe">
+    <league>League One</league>
+    <coach>Andrei Chayeuski</coach>
+  </team>
+</teams>
